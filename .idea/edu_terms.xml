@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TermsProjectSettings">
+    <currentTermsLanguage>en</currentTermsLanguage>
+    <terms>
+      <map>
+        <entry key="en">
+          <value>
+            <map>
+              <entry key="29470930">
+                <value>
+                  <list>
+                    <Term value="octets" definition="Groups of 8 bits in an IP address, each ranging from 0 to 255." />
+                    <Term value="operator" definition="A symbol that performs an operation on one or more operands in programming." />
+                    <Term value="operands" definition="Values or variables on which operators perform actions." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="454981662">
+                <value>
+                  <list>
+                    <Term value="dictionary" definition="A Python data structure that stores key-value pairs for fast lookup." />
+                    <Term value="None" definition="A special Python value representing the absence of a value or a null result." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="528512864">
+                <value>
+                  <list>
+                    <Term value="IP address" definition="A unique numerical label assigned to each device connected to a computer network." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="546835152">
+                <value>
+                  <list>
+                    <Term value="reference" definition="A reference points to the location of an object in memory, not the object itself." />
+                    <Term value="slice operator" definition="In Python, allows extracting a portion of a sequence using the [start:stop] syntax." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="641142885">
+                <value>
+                  <list>
+                    <Term value="immutable" definition="An object whose value cannot be changed after it is created." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1036046983">
+                <value>
+                  <list>
+                    <Term value="macro" definition="A placeholder in code or text that gets replaced with a specific value during processing." />
+                    <Term value="context menu" definition="A menu that appears upon right-clicking, showing options relevant to the current context." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1067900094">
+                <value>
+                  <list>
+                    <Term value="function" definition="A reusable block of code that performs a specific task when called." />
+                    <Term value="list traversal" definition="The process of accessing each element in a list, usually using a loop." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1135579417">
+                <value>
+                  <list>
+                    <Term value="function" definition="A named block of code that performs a specific task and can be reused." />
+                    <Term value="IP addresses" definition="Numerical labels assigned to devices on a network, used for identification and communication." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1135597431">
+                <value>
+                  <list>
+                    <Term value="file object" definition="An object representing an open file, allowing reading or writing operations in Python." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1720078205">
+                <value>
+                  <list>
+                    <Term value="octet" definition="A group of 8 bits, often used to represent each part of an IP address." />
+                    <Term value="IP address" definition="A numerical label assigned to each device connected to a computer network using Internet Protocol." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1949389849">
+                <value>
+                  <list>
+                    <Term value="slice" definition="A way to extract a portion of a sequence, like a list or string, using indices." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2100363567">
+                <value>
+                  <list>
+                    <Term value="octet" definition="A group of 8 bits, often used to represent each part of an IP address." />
+                    <Term value="IP address" definition="A unique numerical label assigned to each device connected to a computer network." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2110254446">
+                <value>
+                  <list>
+                    <Term value="preconditions" definition="Conditions that must be true before a function or operation is executed." />
+                    <Term value="unit test" definition="A test that checks a small, specific part of a program, usually a single function." />
+                    <Term value="interface" definition="The definition of how a function or module can be used, including its inputs and outputs." />
+                    <Term value="docstring" definition="A special string in Python used to document a function, class, or module." />
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </terms>
+    <termsVersions>
+      <map>
+        <entry key="en" value="88" />
+      </map>
+    </termsVersions>
+  </component>
+</project>
